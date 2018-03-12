@@ -1,0 +1,16 @@
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\projetoInterdisciplinar.exe
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\projetoInterdisciplinar.pdb
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\GMap.NET.Core.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\MySql.Data.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\MySql.Data.Entity.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\GMap.NET.Core.xml
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.frmAssociar.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.frmCadAluno.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.frmCadRepublica.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.principal.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.Properties.Resources.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.exe
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Release\projetoInterdisciplinar.pdb

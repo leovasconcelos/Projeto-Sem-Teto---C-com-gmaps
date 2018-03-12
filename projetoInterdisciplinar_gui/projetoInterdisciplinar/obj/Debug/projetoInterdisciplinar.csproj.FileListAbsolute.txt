@@ -1,0 +1,43 @@
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.exe
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadAluno.resources
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.exe
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.principal.resources
+c:\users\antonio\documents\visual studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadRepublica.resources
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\projetoInterdisciplinar\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmAssociar.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.exe
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.pdb
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.exe
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.pdb
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\GMap.NET.Core.xml
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmAssociar.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadAluno.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadRepublica.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.principal.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.Properties.Resources.resources
+C:\Users\Antonio\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.exe
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.pdb
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.exe
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\projetoInterdisciplinar.pdb
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\MySql.Data.dll
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\MySql.Data.Entity.dll
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\GMap.NET.Core.xml
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmAssociar.resources
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadAluno.resources
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.frmCadRepublica.resources
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.principal.resources
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.Properties.Resources.resources
+C:\Users\IFSP\Desktop\projetoInterdisciplinar_gui\projetoInterdisciplinar\obj\Debug\projetoInterdisciplinar.csproj.GenerateResource.Cache
